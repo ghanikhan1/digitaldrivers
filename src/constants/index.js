@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
-    },
-    {
-      title: "React Native Developer",
+      title: "Digital Marketing",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Web Development",
+      icon: web,
+    },
+    {
+      title: "Social Media Marketing",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Ads Strategy",
       icon: creator,
     },
   ];
@@ -116,37 +116,38 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Digital Marketing",
+      // company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      // date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Pay-Per-Click (PPC) Advertising: Targeted ad campaigns to drive immediate traffic and conversions.",
+        "Email Marketing: Craft compelling email campaigns to engage your audience and increase retention.",
+        "Conversion Rate Optimization (CRO): Analyze and improve your website to convert more visitors into customers.",
+        "Brand Strategy: Develop a strong brand identity and messaging to differentiate yourself in the market.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "SEO Optimization",
+      // company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      // date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Optimize your website for search engines to improve visibility and attract organic traffic.",
+        "Keyword Research: Identify and target the most relevant keywords for your industry.",
+        "On-Page SEO: Optimize your website’s content and structure for better search engine rankings.",
+        "Link Building: Enhance your site’s authority through strategic link-building efforts.",
+        "Technical SEO: Address technical aspects like site speed, mobile-friendliness, and crawlability to improve SEO performance.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Web Developments",
+      // company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      // date: "Jan 2022 - Jan 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -155,7 +156,7 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
+      title: "Content Creation",
       company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",

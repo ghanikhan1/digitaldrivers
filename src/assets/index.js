@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
+import google from "./company/google.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
@@ -53,6 +54,7 @@ export {
   typescript,
   threejs,
   meta,
+  google,
   shopify,
   starbucks,
   tesla,

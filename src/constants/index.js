@@ -61,7 +61,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Ads Strategy",
+    title: "SEO/Ads Strategy",
     icon: creator,
   },
 ];
@@ -196,15 +196,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "The team at Digital Drivers delivered outstanding results for our digital campaigns. Our visibility and conversion rates have soared. Excellent work!",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -212,11 +204,19 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "We saw exponential growth after working with Digital Drivers. Their dedication and creative solutions exceeded our expectations. Fantastic service!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "Partnering with Digital Drivers has transformed our online presence. Their expertise and innovative strategies have significantly boosted our traffic and engagement. Highly recommend!",
+    name: "Sara Lee",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
 ];
 

@@ -9,7 +9,7 @@ const styles = {
     "text-[#dfd9ff] font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px]",
 
   heroSubTextBanner:
-    "text-[#915eff] font-bold lg:text-[36px] sm:text-[30px] xs:text-[24px] text-[18px] lg:leading-[40px]",
+    "text-[#915eff] font-bold text-[30px] lg:text-[36px] lg:leading-[40px]",
 
   sectionHeadText:
     "text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]",

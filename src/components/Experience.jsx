@@ -63,7 +63,7 @@ const Experience = () => {
         {/* <p className={`${styles.sectionSubText} text-center`}>
           What I have done so far
         </p> */}
-        <h2 className={`${styles.sectionHeadText} text-center`}>Expertise</h2>
+        <h2 className={`${styles.sectionHeadText} text-center`}>Overview</h2>
       </motion.div>
 
       <div className="mt-20 flex flex-col">
@@ -80,4 +80,4 @@ const Experience = () => {
   );
 };
 
-export default SectionWrapper(Experience, "work");
+export default SectionWrapper(Experience, "services");

@@ -17,6 +17,12 @@ import {
   docker,
   meta,
   google,
+  marketing,
+  seo,
+  googleanalytics,
+  canva,
+  klaviyo,
+  mailchimp,
   starbucks,
   tesla,
   shopify,
@@ -32,8 +38,8 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "work",
-    title: "Work",
+    id: "services",
+    title: "Services",
   },
   {
     id: "contact",
@@ -74,8 +80,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Klaviyo",
+    icon: klaviyo,
   },
   {
     name: "React JS",
@@ -90,20 +96,20 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Canva",
+    icon: canva,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Google Analytics",
+    icon: googleanalytics,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Meta",
+    icon: meta,
   },
   {
-    name: "git",
-    icon: git,
+    name: "Mail Chimp",
+    icon: mailchimp,
   },
   {
     name: "figma",
@@ -119,7 +125,7 @@ const experiences = [
   {
     title: "Digital Marketing",
     // company_name: "Starbucks",
-    icon: starbucks,
+    icon: marketing,
     iconBg: "#383E56",
     // date: "March 2020 - April 2021",
     points: [
@@ -132,7 +138,7 @@ const experiences = [
   {
     title: "SEO Optimization",
     // company_name: "Tesla",
-    icon: tesla,
+    icon: seo,
     iconBg: "#E6DEDD",
     // date: "Jan 2021 - Feb 2022",
     points: [

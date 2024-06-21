@@ -6,6 +6,16 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import digital from "./digital.png";
+import marketing from "./marketing.png";
+import seo from "./seo.png";
+import klaviyo from "./klaviyo.svg";
+import mailchimp from "./mailchimp.jpeg";
+import googleanalytics from "./googleanalytics.jpeg";
+import canva from "./canva.png";
+
+
+
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -33,6 +43,9 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  digital,
+  marketing,
+  seo,
   backend,
   creator,
   mobile,
@@ -61,4 +74,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  canva,
+  googleanalytics,
+  mailchimp,
+  klaviyo
 };

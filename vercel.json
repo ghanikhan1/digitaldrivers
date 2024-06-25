@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://digitaldrivers.co.uk/",
+      "destination": "https://digitaldrivers.co.uk/$1",
       "permanent": true
     }
   ]

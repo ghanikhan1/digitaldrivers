@@ -25,9 +25,6 @@ const Navbar = () => {
           {/* <img src={logo} alt='logo' className='w-16 h-16 object-contain' /> */}
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Digital Drivers
-            {/* Usman &nbsp; 
-            <span className="sm:block hidden">| Laravel Mastery
-            </span> */}
             </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
@@ -38,7 +35,7 @@ const Navbar = () => {
                 hover:text-white text-[] `}
                 onClick={() => setActive(link.title)}
             >
-              <a href={`#${link.id}`}>{link.title}</a>
+              <a href={`/#${link.id}`}>{link.title}</a>
             </li>
           ))}
         </ul>
